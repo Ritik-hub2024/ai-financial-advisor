@@ -1,0 +1,5 @@
+{
+  "name": "AI Financial Advisor",
+  "description": "An intelligent financial planning system that delivers personalized, data-driven advice using Gemini AI to analyze income, expenses, savings, and goals.",
+  "requestFramePermissions": []
+}
